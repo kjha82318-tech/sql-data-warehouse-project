@@ -39,7 +39,7 @@ See the LICENSE file for the complete license terms.
 
 About Me
 I enjoy working with data to build meaningful solutions, from designing data warehouses and writing SQL queries to performing data analysis and generating actionable business insights
----
+-----
 
 
 
